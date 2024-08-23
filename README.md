@@ -6,3 +6,4 @@ Domain:Frontend Developer
 2. CSS (stylesfile.css)
 3. JavaScript (scriptfile.js)
 This JavaScript file will handle the coin toss logic and update the result.
+
